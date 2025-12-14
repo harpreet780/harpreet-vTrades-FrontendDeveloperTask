@@ -20,8 +20,8 @@ I used **Next.js 15 (App Router)** and **NextAuth.js** for the backend logic, an
 
 ## Quick Testing Credentials
 
-*   **Login Email**: Any Email (e.g. `test@example.com`)
-*   **Login Password**: Any Password
+*   **Login Email**: `test@example.com`
+*   **Login Password**: `Password@123`
 *   **Forgot Password OTP**: `123456`
 
 ---
